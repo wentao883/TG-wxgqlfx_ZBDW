@@ -1,134 +1,134 @@
 ﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-218.204.179.53,61021,TRUE,SIN,SG,Asia Pacific,Singapore,9808,"China Mobile Communications Group Co., Ltd.",328,31.35
-154.3.37.27,9004,TRUE,SIN,SG,Asia Pacific,Singapore,906,DMIT,374,31.24
-47.128.164.52,9999,TRUE,SIN,SG,Asia Pacific,Singapore,16509,AMAZON-02,390,23.10
-18.136.104.40,19042,TRUE,SIN,SG,Asia Pacific,Singapore,16509,AMAZON-02,296,22.33
-45.66.128.116,48367,TRUE,LAX,US,North America,Los Angeles,3258,xTom Pty Ltd,611,21.02
-45.205.0.93,8443,TRUE,LAX,US,North America,Los Angeles,209242,"Cloudflare London, LLC",668,19.93
-139.162.48.174,10000,TRUE,SIN,SG,Asia Pacific,Singapore,63949,Akamai Connected Cloud,473,19.78
-77.37.33.195,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,872,19.70
-147.78.247.110,50011,TRUE,HKG,HK,Asia Pacific,Hong Kong,3258,xTom Pty Ltd,545,19.59
-77.37.33.157,8443,TRUE,LAX,US,North America,Los Angeles,31400,firstcolo GmbH,923,19.32
-45.205.0.78,8443,TRUE,LAX,US,North America,Los Angeles,209242,"Cloudflare London, LLC",724,19.07
-45.205.0.236,8443,TRUE,SEA,US,North America,Seattle,209242,"Cloudflare London, LLC",807,18.72
-77.37.33.179,8443,TRUE,LAX,US,North America,Los Angeles,31400,firstcolo GmbH,729,18.13
-62.106.70.89,40184,TRUE,HKG,HK,Asia Pacific,Hong Kong,3258,xTom Pty Ltd,534,18.10
-45.205.0.173,8443,TRUE,LAX,US,North America,Los Angeles,209242,"Cloudflare London, LLC",800,18.03
-45.205.0.21,8443,TRUE,LAX,US,North America,Los Angeles,209242,"Cloudflare London, LLC",815,17.91
-77.37.33.104,8443,TRUE,LAX,US,North America,Los Angeles,31400,firstcolo GmbH,993,17.83
-77.37.33.220,8443,TRUE,LAX,US,North America,Los Angeles,31400,firstcolo GmbH,905,17.75
-79.99.31.19,8443,TRUE,LAX,US,North America,Los Angeles,834,IPXO,670,17.57
-77.37.33.92,8443,TRUE,LAX,US,North America,Los Angeles,31400,firstcolo GmbH,724,17.56
-45.205.0.154,8443,TRUE,LAX,US,North America,Los Angeles,209242,"Cloudflare London, LLC",687,17.46
-79.99.30.123,8443,TRUE,LAX,US,North America,Los Angeles,834,IPXO,710,17.38
-77.37.33.149,8443,TRUE,LAX,US,North America,Los Angeles,31400,firstcolo GmbH,809,17.00
-77.37.33.48,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,688,16.82
-8.222.169.182,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",376,16.66
-45.205.0.245,8443,TRUE,SEA,US,North America,Seattle,209242,"Cloudflare London, LLC",892,16.56
-45.205.0.166,8443,TRUE,LAX,US,North America,Los Angeles,209242,"Cloudflare London, LLC",902,16.51
-45.205.0.145,8443,TRUE,SEA,US,North America,Seattle,209242,"Cloudflare London, LLC",767,16.46
-77.37.33.214,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,750,16.26
-79.99.28.150,8443,TRUE,LAX,US,North America,Los Angeles,834,IPXO,708,16.23
-77.37.33.119,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,976,16.16
-77.37.33.31,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,749,15.95
-45.205.0.207,8443,TRUE,LAX,US,North America,Los Angeles,209242,"Cloudflare London, LLC",955,15.79
-79.99.28.129,8443,TRUE,SEA,US,North America,Seattle,834,IPXO,660,15.68
-45.205.0.162,8443,TRUE,SEA,US,North America,Seattle,209242,"Cloudflare London, LLC",864,15.68
-8.222.248.188,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",847,15.61
-77.37.33.16,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,828,15.51
-147.78.247.110,50015,TRUE,SIN,SG,Asia Pacific,Singapore,3258,xTom Pty Ltd,592,15.49
-77.37.33.75,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,682,14.95
-79.99.30.138,8443,TRUE,LAX,US,North America,Los Angeles,834,IPXO,693,14.78
-45.205.0.144,8443,TRUE,SEA,US,North America,Seattle,209242,"Cloudflare London, LLC",716,14.73
-45.205.0.25,8443,TRUE,LAX,US,North America,Los Angeles,209242,"Cloudflare London, LLC",920,14.61
-77.37.33.194,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,742,14.58
-8.222.160.176,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",350,14.03
-77.37.33.41,8443,TRUE,LAX,US,North America,Los Angeles,31400,firstcolo GmbH,765,13.89
-77.37.33.24,8443,TRUE,LAX,US,North America,Los Angeles,31400,firstcolo GmbH,740,13.86
-77.37.33.103,8443,TRUE,LAX,US,North America,Los Angeles,31400,firstcolo GmbH,968,13.61
-60.248.63.88,16153,TRUE,HKG,HK,Asia Pacific,Hong Kong,3462,Data Communication Business Group,579,13.41
-77.37.33.83,8443,TRUE,LAX,US,North America,Los Angeles,31400,firstcolo GmbH,740,13.16
-77.37.33.109,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,737,13.07
-45.205.0.45,8443,TRUE,LAX,US,North America,Los Angeles,209242,"Cloudflare London, LLC",844,12.96
-8.219.73.21,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",360,12.94
-77.37.33.47,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,687,12.89
-45.205.0.168,8443,TRUE,SEA,US,North America,Seattle,209242,"Cloudflare London, LLC",681,12.88
-77.37.33.1,8443,TRUE,LAX,US,North America,Los Angeles,31400,firstcolo GmbH,954,12.80
-8.222.130.137,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",354,12.69
-45.205.0.161,8443,TRUE,LAX,US,North America,Los Angeles,209242,"Cloudflare London, LLC",737,12.68
-45.205.0.170,8443,TRUE,SEA,US,North America,Seattle,209242,"Cloudflare London, LLC",714,12.56
-45.205.0.148,8443,TRUE,LAX,US,North America,Los Angeles,209242,"Cloudflare London, LLC",830,12.53
-60.248.63.88,13226,TRUE,HKG,HK,Asia Pacific,Hong Kong,3462,Data Communication Business Group,575,12.18
-147.78.247.110,50013,TRUE,LAX,US,North America,Los Angeles,3258,xTom Pty Ltd,665,12.17
-77.37.33.4,8443,TRUE,LAX,US,North America,Los Angeles,31400,firstcolo GmbH,748,12.12
-8.219.86.200,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",335,12.11
-8.219.79.74,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",357,12.11
-60.248.63.88,36678,TRUE,HKG,HK,Asia Pacific,Hong Kong,3462,Data Communication Business Group,545,12.10
-45.205.0.211,8443,TRUE,SEA,US,North America,Seattle,209242,"Cloudflare London, LLC",775,11.92
-8.219.40.37,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",293,11.78
-77.37.33.72,8443,TRUE,LAX,US,North America,Los Angeles,31400,firstcolo GmbH,810,11.51
-77.37.33.9,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,696,11.34
-45.205.0.206,8443,TRUE,SEA,US,North America,Seattle,209242,"Cloudflare London, LLC",919,11.34
-77.37.33.60,8443,TRUE,LAX,US,North America,Los Angeles,31400,firstcolo GmbH,841,11.31
-79.99.30.190,8443,TRUE,SEA,US,North America,Seattle,834,IPXO,636,11.30
-79.99.28.165,8443,TRUE,SEA,US,North America,Seattle,834,IPXO,640,11.29
-77.37.33.242,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,679,11.16
-77.37.33.86,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,669,11.14
-45.205.0.76,8443,TRUE,LAX,US,North America,Los Angeles,209242,"Cloudflare London, LLC",838,11.08
-45.205.0.155,8443,TRUE,LAX,US,North America,Los Angeles,209242,"Cloudflare London, LLC",803,11.08
-45.205.0.189,8443,TRUE,SEA,US,North America,Seattle,209242,"Cloudflare London, LLC",948,11.06
-45.205.0.171,8443,TRUE,SEA,US,North America,Seattle,209242,"Cloudflare London, LLC",714,11.06
-45.205.0.191,8443,TRUE,LAX,US,North America,Los Angeles,209242,"Cloudflare London, LLC",767,11.03
-77.37.33.100,8443,TRUE,LAX,US,North America,Los Angeles,31400,firstcolo GmbH,918,11.03
-45.205.0.98,8443,TRUE,SEA,US,North America,Seattle,209242,"Cloudflare London, LLC",704,10.92
-77.37.33.2,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,667,10.91
-45.205.0.163,8443,TRUE,LAX,US,North America,Los Angeles,209242,"Cloudflare London, LLC",894,10.87
-45.205.0.71,8443,TRUE,LAX,US,North America,Los Angeles,209242,"Cloudflare London, LLC",778,10.87
-45.205.0.184,8443,TRUE,SEA,US,North America,Seattle,209242,"Cloudflare London, LLC",889,10.81
-45.205.0.237,8443,TRUE,SEA,US,North America,Seattle,209242,"Cloudflare London, LLC",669,10.81
-8.222.167.147,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",371,10.81
-77.37.33.87,8443,TRUE,LAX,US,North America,Los Angeles,31400,firstcolo GmbH,742,10.81
-79.99.31.170,8443,TRUE,LAX,US,North America,Los Angeles,834,IPXO,684,10.80
-77.37.33.107,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,949,10.78
-45.205.0.141,8443,TRUE,SEA,US,North America,Seattle,209242,"Cloudflare London, LLC",750,10.75
-45.205.0.253,8443,TRUE,SEA,US,North America,Seattle,209242,"Cloudflare London, LLC",714,10.73
-79.99.28.96,8443,TRUE,SEA,US,North America,Seattle,834,IPXO,641,10.72
-8.222.184.198,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",412,10.69
-77.37.33.11,8443,TRUE,LAX,US,North America,Los Angeles,31400,firstcolo GmbH,819,10.67
-47.245.56.207,8443,TRUE,LAX,US,North America,Los Angeles,45102,"Alibaba US Technology Co., Ltd.",596,10.65
-77.37.33.71,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,759,10.63
-77.37.33.137,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,897,10.62
-77.37.33.32,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,907,10.58
-8.219.1.92,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",326,10.50
-8.222.140.185,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",336,10.50
-77.37.33.188,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,829,10.49
-77.37.33.173,8443,TRUE,LAX,US,North America,Los Angeles,31400,firstcolo GmbH,773,10.48
-45.205.0.147,8443,TRUE,LAX,US,North America,Los Angeles,209242,"Cloudflare London, LLC",767,10.48
-8.222.162.45,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",379,10.44
-8.222.187.107,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",413,10.42
-77.37.33.63,8443,TRUE,LAX,US,North America,Los Angeles,31400,firstcolo GmbH,986,10.39
-45.205.0.28,8443,TRUE,LAX,US,North America,Los Angeles,209242,"Cloudflare London, LLC",816,10.37
-8.219.50.180,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",319,10.34
-45.205.0.186,8443,TRUE,LAX,US,North America,Los Angeles,209242,"Cloudflare London, LLC",976,10.24
-77.37.33.99,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,660,10.24
-77.37.33.232,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,709,10.22
-77.37.33.55,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,825,10.19
-77.37.33.133,8443,TRUE,LAX,US,North America,Los Angeles,31400,firstcolo GmbH,702,10.19
-77.37.33.156,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,849,10.15
-77.37.33.56,8443,TRUE,LAX,US,North America,Los Angeles,31400,firstcolo GmbH,880,10.11
-8.222.154.227,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",356,10.10
-77.37.33.215,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,739,10.08
-77.37.33.147,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,762,10.07
-20.247.109.61,10022,TRUE,SIN,SG,Asia Pacific,Singapore,8075,MICROSOFT-CORP-MSN-AS-BLOCK,642,10.04
-77.37.33.198,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,733,10.04
-77.37.33.136,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,994,10.03
-45.205.0.22,8443,TRUE,SEA,US,North America,Seattle,209242,"Cloudflare London, LLC",731,10.02
-77.37.33.170,8443,TRUE,LAX,US,North America,Los Angeles,31400,firstcolo GmbH,929,10.00
-8.222.168.234,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",430,9.99
-77.37.33.248,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,682,9.97
-77.37.33.245,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,756,9.96
-8.219.99.169,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",345,9.96
-77.37.33.185,8443,TRUE,LAX,US,North America,Los Angeles,31400,firstcolo GmbH,681,9.95
+218.204.179.53,61021,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,9808,"China Mobile Communications Group Co., Ltd.",328,31.35
+154.3.37.27,9004,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,906,DMIT,374,31.24
+47.128.164.52,9999,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,16509,AMAZON-02,390,23.10
+18.136.104.40,19042,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,16509,AMAZON-02,296,22.33
+45.66.128.116,48367,TRUE,US@wxgqlfx,US,North America,Los Angeles,3258,xTom Pty Ltd,611,21.02
+45.205.0.93,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,209242,"Cloudflare London, LLC",668,19.93
+139.162.48.174,10000,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,63949,Akamai Connected Cloud,473,19.78
+77.37.33.195,8443,TRUE,US@wxgqlfx,US,North America,Seattle,31400,firstcolo GmbH,872,19.70
+147.78.247.110,50011,TRUE,HK@wxgqlfx,HK,Asia Pacific,Hong Kong,3258,xTom Pty Ltd,545,19.59
+77.37.33.157,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,31400,firstcolo GmbH,923,19.32
+45.205.0.78,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,209242,"Cloudflare London, LLC",724,19.07
+45.205.0.236,8443,TRUE,US@wxgqlfx,US,North America,Seattle,209242,"Cloudflare London, LLC",807,18.72
+77.37.33.179,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,31400,firstcolo GmbH,729,18.13
+62.106.70.89,40184,TRUE,HK@wxgqlfx,HK,Asia Pacific,Hong Kong,3258,xTom Pty Ltd,534,18.10
+45.205.0.173,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,209242,"Cloudflare London, LLC",800,18.03
+45.205.0.21,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,209242,"Cloudflare London, LLC",815,17.91
+77.37.33.104,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,31400,firstcolo GmbH,993,17.83
+77.37.33.220,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,31400,firstcolo GmbH,905,17.75
+79.99.31.19,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,834,IPXO,670,17.57
+77.37.33.92,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,31400,firstcolo GmbH,724,17.56
+45.205.0.154,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,209242,"Cloudflare London, LLC",687,17.46
+79.99.30.123,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,834,IPXO,710,17.38
+77.37.33.149,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,31400,firstcolo GmbH,809,17.00
+77.37.33.48,8443,TRUE,US@wxgqlfx,US,North America,Seattle,31400,firstcolo GmbH,688,16.82
+8.222.169.182,8443,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",376,16.66
+45.205.0.245,8443,TRUE,US@wxgqlfx,US,North America,Seattle,209242,"Cloudflare London, LLC",892,16.56
+45.205.0.166,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,209242,"Cloudflare London, LLC",902,16.51
+45.205.0.145,8443,TRUE,US@wxgqlfx,US,North America,Seattle,209242,"Cloudflare London, LLC",767,16.46
+77.37.33.214,8443,TRUE,US@wxgqlfx,US,North America,Seattle,31400,firstcolo GmbH,750,16.26
+79.99.28.150,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,834,IPXO,708,16.23
+77.37.33.119,8443,TRUE,US@wxgqlfx,US,North America,Seattle,31400,firstcolo GmbH,976,16.16
+77.37.33.31,8443,TRUE,US@wxgqlfx,US,North America,Seattle,31400,firstcolo GmbH,749,15.95
+45.205.0.207,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,209242,"Cloudflare London, LLC",955,15.79
+79.99.28.129,8443,TRUE,US@wxgqlfx,US,North America,Seattle,834,IPXO,660,15.68
+45.205.0.162,8443,TRUE,US@wxgqlfx,US,North America,Seattle,209242,"Cloudflare London, LLC",864,15.68
+8.222.248.188,8443,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",847,15.61
+77.37.33.16,8443,TRUE,US@wxgqlfx,US,North America,Seattle,31400,firstcolo GmbH,828,15.51
+147.78.247.110,50015,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,3258,xTom Pty Ltd,592,15.49
+77.37.33.75,8443,TRUE,US@wxgqlfx,US,North America,Seattle,31400,firstcolo GmbH,682,14.95
+79.99.30.138,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,834,IPXO,693,14.78
+45.205.0.144,8443,TRUE,US@wxgqlfx,US,North America,Seattle,209242,"Cloudflare London, LLC",716,14.73
+45.205.0.25,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,209242,"Cloudflare London, LLC",920,14.61
+77.37.33.194,8443,TRUE,US@wxgqlfx,US,North America,Seattle,31400,firstcolo GmbH,742,14.58
+8.222.160.176,8443,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",350,14.03
+77.37.33.41,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,31400,firstcolo GmbH,765,13.89
+77.37.33.24,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,31400,firstcolo GmbH,740,13.86
+77.37.33.103,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,31400,firstcolo GmbH,968,13.61
+60.248.63.88,16153,TRUE,HK@wxgqlfx,HK,Asia Pacific,Hong Kong,3462,Data Communication Business Group,579,13.41
+77.37.33.83,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,31400,firstcolo GmbH,740,13.16
+77.37.33.109,8443,TRUE,US@wxgqlfx,US,North America,Seattle,31400,firstcolo GmbH,737,13.07
+45.205.0.45,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,209242,"Cloudflare London, LLC",844,12.96
+8.219.73.21,8443,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",360,12.94
+77.37.33.47,8443,TRUE,US@wxgqlfx,US,North America,Seattle,31400,firstcolo GmbH,687,12.89
+45.205.0.168,8443,TRUE,US@wxgqlfx,US,North America,Seattle,209242,"Cloudflare London, LLC",681,12.88
+77.37.33.1,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,31400,firstcolo GmbH,954,12.80
+8.222.130.137,8443,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",354,12.69
+45.205.0.161,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,209242,"Cloudflare London, LLC",737,12.68
+45.205.0.170,8443,TRUE,US@wxgqlfx,US,North America,Seattle,209242,"Cloudflare London, LLC",714,12.56
+45.205.0.148,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,209242,"Cloudflare London, LLC",830,12.53
+60.248.63.88,13226,TRUE,HK@wxgqlfx,HK,Asia Pacific,Hong Kong,3462,Data Communication Business Group,575,12.18
+147.78.247.110,50013,TRUE,US@wxgqlfx,US,North America,Los Angeles,3258,xTom Pty Ltd,665,12.17
+77.37.33.4,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,31400,firstcolo GmbH,748,12.12
+8.219.86.200,8443,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",335,12.11
+8.219.79.74,8443,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",357,12.11
+60.248.63.88,36678,TRUE,HK@wxgqlfx,HK,Asia Pacific,Hong Kong,3462,Data Communication Business Group,545,12.10
+45.205.0.211,8443,TRUE,US@wxgqlfx,US,North America,Seattle,209242,"Cloudflare London, LLC",775,11.92
+8.219.40.37,8443,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",293,11.78
+77.37.33.72,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,31400,firstcolo GmbH,810,11.51
+77.37.33.9,8443,TRUE,US@wxgqlfx,US,North America,Seattle,31400,firstcolo GmbH,696,11.34
+45.205.0.206,8443,TRUE,US@wxgqlfx,US,North America,Seattle,209242,"Cloudflare London, LLC",919,11.34
+77.37.33.60,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,31400,firstcolo GmbH,841,11.31
+79.99.30.190,8443,TRUE,US@wxgqlfx,US,North America,Seattle,834,IPXO,636,11.30
+79.99.28.165,8443,TRUE,US@wxgqlfx,US,North America,Seattle,834,IPXO,640,11.29
+77.37.33.242,8443,TRUE,US@wxgqlfx,US,North America,Seattle,31400,firstcolo GmbH,679,11.16
+77.37.33.86,8443,TRUE,US@wxgqlfx,US,North America,Seattle,31400,firstcolo GmbH,669,11.14
+45.205.0.76,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,209242,"Cloudflare London, LLC",838,11.08
+45.205.0.155,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,209242,"Cloudflare London, LLC",803,11.08
+45.205.0.189,8443,TRUE,US@wxgqlfx,US,North America,Seattle,209242,"Cloudflare London, LLC",948,11.06
+45.205.0.171,8443,TRUE,US@wxgqlfx,US,North America,Seattle,209242,"Cloudflare London, LLC",714,11.06
+45.205.0.191,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,209242,"Cloudflare London, LLC",767,11.03
+77.37.33.100,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,31400,firstcolo GmbH,918,11.03
+45.205.0.98,8443,TRUE,US@wxgqlfx,US,North America,Seattle,209242,"Cloudflare London, LLC",704,10.92
+77.37.33.2,8443,TRUE,US@wxgqlfx,US,North America,Seattle,31400,firstcolo GmbH,667,10.91
+45.205.0.163,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,209242,"Cloudflare London, LLC",894,10.87
+45.205.0.71,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,209242,"Cloudflare London, LLC",778,10.87
+45.205.0.184,8443,TRUE,US@wxgqlfx,US,North America,Seattle,209242,"Cloudflare London, LLC",889,10.81
+45.205.0.237,8443,TRUE,US@wxgqlfx,US,North America,Seattle,209242,"Cloudflare London, LLC",669,10.81
+8.222.167.147,8443,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",371,10.81
+77.37.33.87,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,31400,firstcolo GmbH,742,10.81
+79.99.31.170,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,834,IPXO,684,10.80
+77.37.33.107,8443,TRUE,US@wxgqlfx,US,North America,Seattle,31400,firstcolo GmbH,949,10.78
+45.205.0.141,8443,TRUE,US@wxgqlfx,US,North America,Seattle,209242,"Cloudflare London, LLC",750,10.75
+45.205.0.253,8443,TRUE,US@wxgqlfx,US,North America,Seattle,209242,"Cloudflare London, LLC",714,10.73
+79.99.28.96,8443,TRUE,US@wxgqlfx,US,North America,Seattle,834,IPXO,641,10.72
+8.222.184.198,8443,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",412,10.69
+77.37.33.11,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,31400,firstcolo GmbH,819,10.67
+47.245.56.207,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,45102,"Alibaba US Technology Co., Ltd.",596,10.65
+77.37.33.71,8443,TRUE,US@wxgqlfx,US,North America,Seattle,31400,firstcolo GmbH,759,10.63
+77.37.33.137,8443,TRUE,US@wxgqlfx,US,North America,Seattle,31400,firstcolo GmbH,897,10.62
+77.37.33.32,8443,TRUE,US@wxgqlfx,US,North America,Seattle,31400,firstcolo GmbH,907,10.58
+8.219.1.92,8443,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",326,10.50
+8.222.140.185,8443,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",336,10.50
+77.37.33.188,8443,TRUE,US@wxgqlfx,US,North America,Seattle,31400,firstcolo GmbH,829,10.49
+77.37.33.173,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,31400,firstcolo GmbH,773,10.48
+45.205.0.147,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,209242,"Cloudflare London, LLC",767,10.48
+8.222.162.45,8443,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",379,10.44
+8.222.187.107,8443,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",413,10.42
+77.37.33.63,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,31400,firstcolo GmbH,986,10.39
+45.205.0.28,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,209242,"Cloudflare London, LLC",816,10.37
+8.219.50.180,8443,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",319,10.34
+45.205.0.186,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,209242,"Cloudflare London, LLC",976,10.24
+77.37.33.99,8443,TRUE,US@wxgqlfx,US,North America,Seattle,31400,firstcolo GmbH,660,10.24
+77.37.33.232,8443,TRUE,US@wxgqlfx,US,North America,Seattle,31400,firstcolo GmbH,709,10.22
+77.37.33.55,8443,TRUE,US@wxgqlfx,US,North America,Seattle,31400,firstcolo GmbH,825,10.19
+77.37.33.133,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,31400,firstcolo GmbH,702,10.19
+77.37.33.156,8443,TRUE,US@wxgqlfx,US,North America,Seattle,31400,firstcolo GmbH,849,10.15
+77.37.33.56,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,31400,firstcolo GmbH,880,10.11
+8.222.154.227,8443,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",356,10.10
+77.37.33.215,8443,TRUE,US@wxgqlfx,US,North America,Seattle,31400,firstcolo GmbH,739,10.08
+77.37.33.147,8443,TRUE,US@wxgqlfx,US,North America,Seattle,31400,firstcolo GmbH,762,10.07
+20.247.109.61,10022,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,8075,MICROSOFT-CORP-MSN-AS-BLOCK,642,10.04
+77.37.33.198,8443,TRUE,US@wxgqlfx,US,North America,Seattle,31400,firstcolo GmbH,733,10.04
+77.37.33.136,8443,TRUE,US@wxgqlfx,US,North America,Seattle,31400,firstcolo GmbH,994,10.03
+45.205.0.22,8443,TRUE,US@wxgqlfx,US,North America,Seattle,209242,"Cloudflare London, LLC",731,10.02
+77.37.33.170,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,31400,firstcolo GmbH,929,10.00
+8.222.168.234,8443,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",430,9.99
+77.37.33.248,8443,TRUE,US@wxgqlfx,US,North America,Seattle,31400,firstcolo GmbH,682,9.97
+77.37.33.245,8443,TRUE,US@wxgqlfx,US,North America,Seattle,31400,firstcolo GmbH,756,9.96
+8.219.99.169,8443,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",345,9.96
+77.37.33.185,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,31400,firstcolo GmbH,681,9.95
 45.205.0.232,8443,TRUE,SEA,US,North America,Seattle,209242,"Cloudflare London, LLC",900,9.86
 8.222.164.44,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",408,9.81
 45.205.0.251,8443,TRUE,SEA,US,North America,Seattle,209242,"Cloudflare London, LLC",739,9.74
