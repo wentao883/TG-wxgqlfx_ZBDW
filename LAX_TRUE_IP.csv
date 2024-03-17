@@ -14,3 +14,6 @@ IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度
 104.29.69.150,443,443,TRUE,香港13,Asia Pacific,Hongkong,77,29.71
 104.29.69.77,443,443,TRUE,香港14,Asia Pacific,Hongkong,77,29.71
 172.67.64.166,443,443,TRUE,香港16,Asia Pacific,Hongkong,77,29.71
+38.207.130.236,443,443,TRUE,日本A1,Asia Pacific,Tokyo,78,20.71
+128.22.132.227,443,443,TRUE,日本A2,Asia Pacific,Tokyo,142,21.71
+168.138.52.13,443,443,TRUE,日本A3,Asia Pacific,Tokyo,81,22.71
