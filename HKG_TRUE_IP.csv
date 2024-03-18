@@ -50,8 +50,8 @@ IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(
 147.78.244.76,34237,TRUE,JP@wxgqlfx,JP,Asia Pacific,Tokyo,3258,xTom Pty Ltd,328,14.18
 45.66.128.148,48388,TRUE,JP@wxgqlfx,JP,Asia Pacific,Tokyo,3258,xTom Pty Ltd,305,14.05
 141.98.197.103,55271,TRUE,JP@wxgqlfx,JP,Asia Pacific,Tokyo,3258,xTom Pty Ltd,296,12.73
-45.66.129.126,46634,TRUE,NRT,JP,Asia Pacific,Tokyo,3258,xTom Pty Ltd,317,11.99
-103.200.30.138,44004,TRUE,NRT,JP,Asia Pacific,Tokyo,138968,rainbow network limited,219,11.93
+45.66.129.126,46634,TRUE,JP@wxgqlfx,JP,Asia Pacific,Tokyo,3258,xTom Pty Ltd,317,11.99
+103.200.30.138,44004,TRUE,JP@wxgqlfx,JP,Asia Pacific,Tokyo,138968,rainbow network limited,219,11.93
 146.56.179.20,45790,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,31898,ORACLE-BMC-31898,894,11.28
 176.119.150.179,49437,TRUE,JP@wxgqlfx,JP,Asia Pacific,Tokyo,3258,xTom Pty Ltd,273,11.12
 103.201.130.155,47290,TRUE,JP@wxgqlfx,JP,Asia Pacific,Tokyo,3258,xTom Pty Ltd,411,10.71
