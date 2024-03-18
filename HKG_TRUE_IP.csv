@@ -162,3 +162,25 @@ IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(
 77.37.33.173,8443,TRUE,LAX,US,North America,Los Angeles,31400,firstcolo GmbH,773,10.48
 45.205.0.147,8443,TRUE,LAX,US,North America,Los Angeles,209242,"Cloudflare London, LLC",767,10.48
 8.222.162.45,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",379,10.44
+8.222.187.107,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",413,10.42
+77.37.33.63,8443,TRUE,LAX,US,North America,Los Angeles,31400,firstcolo GmbH,986,10.39
+45.205.0.28,8443,TRUE,LAX,US,North America,Los Angeles,209242,"Cloudflare London, LLC",816,10.37
+8.219.50.180,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",319,10.34
+45.205.0.186,8443,TRUE,LAX,US,North America,Los Angeles,209242,"Cloudflare London, LLC",976,10.24
+77.37.33.99,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,660,10.24
+77.37.33.232,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,709,10.22
+77.37.33.55,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,825,10.19
+77.37.33.133,8443,TRUE,LAX,US,North America,Los Angeles,31400,firstcolo GmbH,702,10.19
+77.37.33.156,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,849,10.15
+77.37.33.56,8443,TRUE,LAX,US,North America,Los Angeles,31400,firstcolo GmbH,880,10.11
+8.222.154.227,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",356,10.10
+77.37.33.215,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,739,10.08
+77.37.33.147,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,762,10.07
+20.247.109.61,10022,TRUE,SIN,SG,Asia Pacific,Singapore,8075,MICROSOFT-CORP-MSN-AS-BLOCK,642,10.04
+77.37.33.198,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,733,10.04
+77.37.33.136,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,994,10.03
+45.205.0.22,8443,TRUE,SEA,US,North America,Seattle,209242,"Cloudflare London, LLC",731,10.02
+77.37.33.170,8443,TRUE,LAX,US,North America,Los Angeles,31400,firstcolo GmbH,929,10.00
+8.222.168.234,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",430,9.99
+77.37.33.248,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,682,9.97
+77.37.33.245,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,756,9.96
