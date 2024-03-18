@@ -157,7 +157,7 @@ IP地址,端口,回源端口,TLS,数据中心,地区,城市,延迟(ms),速度(MB
 47.236.121.7,2082,2082,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,11,10.99
 8.219.197.111,8443,8443,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,120,10.99
 47.245.62.84,2082,2082,FALSE,HK@wxgqlfx,Asia Pacific,Hong Kong,166,10.98
-47.236.166.184,8443,8443,TRUE,SIN,Asia Pacific,Singapore,67,10.98
+47.236.166.184,8443,8443,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,67,10.98
 47.236.169.164,2052,2052,FALSE,SIN,Asia Pacific,Singapore,6,6.64
 47.245.59.133,2087,2087,TRUE,HKG,Asia Pacific,Hong Kong,281,6.64
 47.74.54.33,80,80,FALSE,HKG,Asia Pacific,Hong Kong,160,6.63
