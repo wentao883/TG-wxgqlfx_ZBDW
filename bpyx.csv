@@ -1,162 +1,162 @@
 IP地址,端口,回源端口,TLS,数据中心,地区,城市,延迟(ms),速度(MB/s)
-47.236.114.167,2083,2083,TRUE,SIN,Asia Pacific,Singapore,84,11.23
-8.219.249.38,2096,2096,TRUE,SIN,Asia Pacific,Singapore,119,11.23
-8.219.201.174,2086,2086,FALSE,SIN,Asia Pacific,Singapore,29,11.23
-47.236.117.48,8443,8443,TRUE,SIN,Asia Pacific,Singapore,67,11.23
-47.74.37.50,8080,8080,FALSE,HKG,Asia Pacific,Hong Kong,160,11.23
-8.219.222.8,2095,2095,FALSE,SIN,Asia Pacific,Singapore,4,11.23
-8.222.169.182,2095,2095,FALSE,SIN,Asia Pacific,Singapore,20,11.22
-8.219.103.57,8443,8443,TRUE,SIN,Asia Pacific,Singapore,131,11.22
-47.236.145.85,2082,2082,FALSE,SIN,Asia Pacific,Singapore,8,11.22
-47.245.33.158,2083,2083,TRUE,NRT,Asia Pacific,Tokyo,133,11.21
-47.245.37.89,8880,8880,FALSE,HKG,Asia Pacific,Hong Kong,165,11.21
-8.219.173.195,2052,2052,FALSE,SIN,Asia Pacific,Singapore,10,11.21
-8.219.220.88,2052,2052,FALSE,SIN,Asia Pacific,Singapore,24,11.21
-8.222.144.219,8443,8443,TRUE,SIN,Asia Pacific,Singapore,106,11.21
-8.222.180.242,8443,8443,TRUE,SIN,Asia Pacific,Singapore,72,11.21
-8.219.99.169,2095,2095,FALSE,SIN,Asia Pacific,Singapore,13,11.21
-47.245.8.68,2082,2082,FALSE,HKG,Asia Pacific,Hong Kong,169,11.2
-8.219.126.240,2095,2095,FALSE,SIN,Asia Pacific,Singapore,7,11.2
-8.219.112.75,2082,2082,FALSE,SIN,Asia Pacific,Singapore,18,11.2
-8.219.134.117,2096,2096,TRUE,SIN,Asia Pacific,Singapore,46,11.2
-47.91.22.115,80,0,FALSE,NRT,Asia Pacific,Tokyo,74,11.2
-8.219.0.162,2053,2053,TRUE,SIN,Asia Pacific,Singapore,63,11.19
-8.219.174.142,8080,8080,FALSE,SIN,Asia Pacific,Singapore,9,11.19
-47.74.5.150,2053,2053,TRUE,HKG,Asia Pacific,Hong Kong,146,11.19
-8.219.153.44,2053,2053,TRUE,SIN,Asia Pacific,Singapore,140,11.19
-8.209.246.24,2087,2087,TRUE,HKG,Asia Pacific,Hong Kong,186,11.19
-8.219.194.170,2096,2096,TRUE,SIN,Asia Pacific,Singapore,81,11.18
-47.245.82.78,2083,2083,TRUE,SIN,Asia Pacific,Singapore,67,11.18
-8.219.65.191,2096,2096,TRUE,SIN,Asia Pacific,Singapore,41,11.18
-8.219.157.97,80,80,FALSE,SIN,Asia Pacific,Singapore,38,11.18
-8.219.147.58,2083,2083,TRUE,SIN,Asia Pacific,Singapore,87,11.18
-47.245.6.9,80,80,FALSE,HKG,Asia Pacific,Hong Kong,164,11.18
-8.219.98.13,443,443,TRUE,SIN,Asia Pacific,Singapore,132,11.18
-47.245.10.156,2086,2086,FALSE,NRT,Asia Pacific,Tokyo,71,11.18
-8.219.250.239,2095,2095,FALSE,SIN,Asia Pacific,Singapore,8,11.18
-8.219.204.120,2095,2095,FALSE,SIN,Asia Pacific,Singapore,5,11.18
-47.245.118.197,2096,2096,TRUE,SIN,Asia Pacific,Singapore,10,11.17
-47.245.37.12,2053,2053,TRUE,HKG,Asia Pacific,Hong Kong,173,11.17
-47.245.53.50,8443,8443,TRUE,HKG,Asia Pacific,Hong Kong,297,11.17
-8.219.209.14,2095,2095,FALSE,SIN,Asia Pacific,Singapore,36,11.16
-47.245.54.58,2095,2095,FALSE,HKG,Asia Pacific,Hong Kong,170,11.16
-8.219.201.245,2053,2053,TRUE,SIN,Asia Pacific,Singapore,107,11.16
-47.91.1.199,2082,2082,FALSE,HKG,Asia Pacific,Hong Kong,164,11.16
-47.236.88.181,80,80,FALSE,SIN,Asia Pacific,Singapore,23,11.16
-47.245.13.93,2095,2095,FALSE,HKG,Asia Pacific,Hong Kong,166,11.16
-8.219.204.120,2096,2096,TRUE,SIN,Asia Pacific,Singapore,85,11.16
-47.236.170.54,8080,8080,FALSE,SIN,Asia Pacific,Singapore,4,11.16
-47.245.37.98,2086,2086,FALSE,SIN,Asia Pacific,Singapore,154,11.16
-47.245.4.22,2087,2087,TRUE,HKG,Asia Pacific,Hong Kong,159,11.15
-8.219.90.87,8443,8443,TRUE,SIN,Asia Pacific,Singapore,175,11.15
-47.245.39.28,2096,2096,TRUE,NRT,Asia Pacific,Tokyo,223,11.15
-8.219.84.214,8880,8880,FALSE,SIN,Asia Pacific,Singapore,13,11.15
-8.219.121.24,8443,8443,TRUE,SIN,Asia Pacific,Singapore,75,11.14
-8.219.113.232,2095,2095,FALSE,SIN,Asia Pacific,Singapore,4,11.14
-8.219.248.170,8080,8080,FALSE,SIN,Asia Pacific,Singapore,55,11.14
-47.236.144.208,2086,2086,FALSE,SIN,Asia Pacific,Singapore,20,11.14
-47.245.37.29,2087,2087,TRUE,HKG,Asia Pacific,Hong Kong,218,11.14
-47.74.11.9,2086,0,FALSE,HKG,Asia Pacific,Hong Kong,171,11.14
-47.74.16.67,2087,2087,TRUE,HKG,Asia Pacific,Hong Kong,160,11.14
-8.219.104.242,2052,2052,FALSE,SIN,Asia Pacific,Singapore,13,11.14
-47.245.37.29,2083,2083,TRUE,HKG,Asia Pacific,Hong Kong,177,11.14
-8.209.252.13,8080,8080,FALSE,HKG,Asia Pacific,Hong Kong,167,11.13
-47.245.2.231,80,80,FALSE,NRT,Asia Pacific,Tokyo,75,11.13
-47.245.54.197,2082,2082,FALSE,HKG,Asia Pacific,Hong Kong,171,11.13
-47.245.39.49,2053,2053,TRUE,HKG,Asia Pacific,Hong Kong,267,11.13
-8.219.86.200,2095,2095,FALSE,SIN,Asia Pacific,Singapore,10,11.13
-8.219.198.34,2082,2082,FALSE,SIN,Asia Pacific,Singapore,7,11.12
-47.245.32.215,2053,2053,TRUE,SIN,Asia Pacific,Singapore,157,11.12
-8.219.201.174,80,80,FALSE,SIN,Asia Pacific,Singapore,7,11.12
-8.219.142.229,2095,2095,FALSE,SIN,Asia Pacific,Singapore,5,11.12
-47.236.121.23,2095,2095,FALSE,SIN,Asia Pacific,Singapore,39,11.12
-8.219.247.203,2052,2052,FALSE,SIN,Asia Pacific,Singapore,13,11.12
-47.236.114.167,2087,2087,TRUE,SIN,Asia Pacific,Singapore,124,11.12
-8.219.245.187,443,443,TRUE,SIN,Asia Pacific,Singapore,64,11.11
-8.219.186.189,2083,2083,TRUE,SIN,Asia Pacific,Singapore,67,11.11
-8.210.65.1,2082,2082,FALSE,SJC,North America,San Jose,201,11.11
-8.219.170.223,2095,2095,FALSE,SIN,Asia Pacific,Singapore,23,11.11
-8.219.4.122,2053,2053,TRUE,SIN,Asia Pacific,Singapore,63,11.11
-8.219.82.177,8443,8443,TRUE,SIN,Asia Pacific,Singapore,118,11.11
-8.219.60.54,2083,2083,TRUE,SIN,Asia Pacific,Singapore,137,11.1
-8.219.167.113,8443,8443,TRUE,SIN,Asia Pacific,Singapore,146,11.1
-8.219.206.53,2096,2096,TRUE,SIN,Asia Pacific,Singapore,123,11.1
-47.236.116.182,2086,2086,FALSE,SIN,Asia Pacific,Singapore,15,11.1
-8.222.136.247,2082,2082,FALSE,SIN,Asia Pacific,Singapore,36,11.1
-47.91.16.198,2083,2083,TRUE,HKG,Asia Pacific,Hong Kong,211,11.1
-47.245.9.17,2082,2082,FALSE,HKG,Asia Pacific,Hong Kong,169,11.09
-8.219.6.157,2095,2095,FALSE,SIN,Asia Pacific,Singapore,28,11.09
-8.219.228.193,2053,2053,TRUE,SIN,Asia Pacific,Singapore,92,11.09
-8.219.103.65,2083,2083,TRUE,SIN,Asia Pacific,Singapore,79,11.09
-8.219.159.232,2095,2095,FALSE,SIN,Asia Pacific,Singapore,8,11.09
-8.209.248.161,2083,2083,TRUE,HKG,Asia Pacific,Hong Kong,173,11.09
-47.245.54.98,2086,2086,FALSE,NRT,Asia Pacific,Tokyo,77,11.09
-8.219.178.101,8880,8880,FALSE,SIN,Asia Pacific,Singapore,19,11.09
-47.245.8.185,80,80,FALSE,HKG,Asia Pacific,Hong Kong,166,11.09
-47.236.145.85,2053,2053,TRUE,SIN,Asia Pacific,Singapore,122,11.08
-47.236.150.13,2095,2095,FALSE,SIN,Asia Pacific,Singapore,20,11.08
-47.245.29.64,2053,2053,TRUE,NRT,Asia Pacific,Tokyo,91,11.07
-8.219.215.12,2083,2083,TRUE,SIN,Asia Pacific,Singapore,61,11.07
-47.236.172.41,2095,2095,FALSE,SIN,Asia Pacific,Singapore,37,11.07
-47.236.163.221,2082,2082,FALSE,SIN,Asia Pacific,Singapore,18,11.07
-47.245.41.84,2086,2086,FALSE,HKG,Asia Pacific,Hong Kong,166,11.07
-47.236.166.184,8080,8080,FALSE,SIN,Asia Pacific,Singapore,103,11.07
-8.219.60.54,2053,2053,TRUE,SIN,Asia Pacific,Singapore,108,11.06
-47.245.10.164,8880,8880,FALSE,HKG,Asia Pacific,Hong Kong,165,11.06
-47.245.11.62,2053,2053,TRUE,NRT,Asia Pacific,Tokyo,148,11.06
-8.219.99.169,2087,2087,TRUE,SIN,Asia Pacific,Singapore,170,11.06
-47.236.172.41,8080,8080,FALSE,SIN,Asia Pacific,Singapore,20,11.06
-47.245.37.12,2082,2082,FALSE,SIN,Asia Pacific,Singapore,154,11.06
-47.236.125.62,8880,8880,FALSE,SIN,Asia Pacific,Singapore,88,11.06
-8.219.137.50,2082,2082,FALSE,SIN,Asia Pacific,Singapore,3,11.06
-8.209.248.161,2096,2096,TRUE,HKG,Asia Pacific,Hong Kong,191,11.06
-47.236.114.23,2083,2083,TRUE,SIN,Asia Pacific,Singapore,82,11.06
-47.245.37.29,2096,2096,TRUE,HKG,Asia Pacific,Hong Kong,237,11.06
-47.245.13.93,2053,2053,TRUE,HKG,Asia Pacific,Hong Kong,220,11.06
-8.209.246.24,8880,8880,FALSE,SIN,Asia Pacific,Singapore,152,11.05
-47.236.125.62,2082,2082,FALSE,SIN,Asia Pacific,Singapore,103,11.05
-8.219.178.9,2052,2052,FALSE,SIN,Asia Pacific,Singapore,5,11.05
-8.219.248.47,2083,2083,TRUE,SIN,Asia Pacific,Singapore,101,11.05
-8.218.136.25,80,80,FALSE,HKG,Asia Pacific,Hong Kong,54,11.05
-8.219.103.126,2086,2086,FALSE,SIN,Asia Pacific,Singapore,12,11.05
-47.245.56.121,2083,2083,TRUE,HKG,Asia Pacific,Hong Kong,229,11.04
-47.245.107.174,2053,2053,TRUE,SIN,Asia Pacific,Singapore,33,11.04
-8.219.72.50,2096,2096,TRUE,SIN,Asia Pacific,Singapore,104,11.04
-47.74.54.33,2083,2083,TRUE,HKG,Asia Pacific,Hong Kong,190,11.04
-47.236.145.85,443,443,TRUE,SIN,Asia Pacific,Singapore,70,11.04
-8.219.193.22,2082,2082,FALSE,SIN,Asia Pacific,Singapore,15,11.03
-47.245.3.137,2052,2052,FALSE,NRT,Asia Pacific,Tokyo,76,11.03
-8.219.103.126,2096,2096,TRUE,SIN,Asia Pacific,Singapore,52,11.03
-8.219.67.133,2087,2087,TRUE,SIN,Asia Pacific,Singapore,131,11.03
-8.222.167.8,2052,2052,FALSE,SIN,Asia Pacific,Singapore,63,11.02
-8.219.84.102,2096,2096,TRUE,SIN,Asia Pacific,Singapore,43,11.02
-47.245.57.109,8880,8880,FALSE,HKG,Asia Pacific,Hong Kong,172,11.02
-8.219.174.142,2087,2087,TRUE,SIN,Asia Pacific,Singapore,121,11.02
-47.245.11.118,2095,2095,FALSE,HKG,Asia Pacific,Hong Kong,167,11.02
-8.222.182.10,2095,2095,FALSE,SIN,Asia Pacific,Singapore,15,11.02
-8.219.152.195,8080,8080,FALSE,SIN,Asia Pacific,Singapore,37,11.02
-8.219.0.162,8443,8443,TRUE,SIN,Asia Pacific,Singapore,96,11.02
-8.219.124.227,8880,8880,FALSE,SIN,Asia Pacific,Singapore,9,11.01
-8.222.164.209,8880,8880,FALSE,SIN,Asia Pacific,Singapore,9,11.01
-8.219.5.10,2095,2095,FALSE,SIN,Asia Pacific,Singapore,2,11.01
-47.236.172.71,8443,8443,TRUE,SIN,Asia Pacific,Singapore,75,11.01
-8.219.193.202,2095,2095,FALSE,SIN,Asia Pacific,Singapore,25,11.01
-47.245.41.69,2053,2053,TRUE,HKG,Asia Pacific,Hong Kong,201,11.01
-8.219.157.97,2086,2086,FALSE,SIN,Asia Pacific,Singapore,12,11.01
-8.218.204.128,2052,2052,FALSE,SJC,North America,San Jose,205,11
-47.236.11.84,2083,2083,TRUE,SIN,Asia Pacific,Singapore,49,11
-8.219.4.122,8080,8080,FALSE,SIN,Asia Pacific,Singapore,9,11
-8.222.168.24,2095,2095,FALSE,SIN,Asia Pacific,Singapore,27,11
-8.219.6.157,2086,2086,FALSE,SIN,Asia Pacific,Singapore,6,11
-8.219.115.215,2053,2053,TRUE,SIN,Asia Pacific,Singapore,66,11
-8.219.82.177,80,80,FALSE,SIN,Asia Pacific,Singapore,14,11
-8.219.6.187,8443,8443,TRUE,SIN,Asia Pacific,Singapore,103,11
-8.219.142.229,2086,2086,FALSE,SIN,Asia Pacific,Singapore,46,10.99
-8.222.152.165,2083,2083,TRUE,SIN,Asia Pacific,Singapore,46,10.99
-8.219.200.145,8880,8880,FALSE,SIN,Asia Pacific,Singapore,14,10.99
-47.236.121.7,2082,2082,FALSE,SIN,Asia Pacific,Singapore,11,10.99
-8.219.197.111,8443,8443,TRUE,SIN,Asia Pacific,Singapore,120,10.99
-47.245.62.84,2082,2082,FALSE,HKG,Asia Pacific,Hong Kong,166,10.98
+47.236.114.167,2083,2083,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,84,11.23
+8.219.249.38,2096,2096,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,119,11.23
+8.219.201.174,2086,2086,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,29,11.23
+47.236.117.48,8443,8443,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,67,11.23
+47.74.37.50,8080,8080,FALSE,HK@wxgqlfx,Asia Pacific,Hong Kong,160,11.23
+8.219.222.8,2095,2095,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,4,11.23
+8.222.169.182,2095,2095,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,20,11.22
+8.219.103.57,8443,8443,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,131,11.22
+47.236.145.85,2082,2082,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,8,11.22
+47.245.33.158,2083,2083,TRUE,JP@wxgqlfx,Asia Pacific,Tokyo,133,11.21
+47.245.37.89,8880,8880,FALSE,HK@wxgqlfx,Asia Pacific,Hong Kong,165,11.21
+8.219.173.195,2052,2052,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,10,11.21
+8.219.220.88,2052,2052,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,24,11.21
+8.222.144.219,8443,8443,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,106,11.21
+8.222.180.242,8443,8443,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,72,11.21
+8.219.99.169,2095,2095,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,13,11.21
+47.245.8.68,2082,2082,FALSE,HK@wxgqlfx,Asia Pacific,Hong Kong,169,11.2
+8.219.126.240,2095,2095,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,7,11.2
+8.219.112.75,2082,2082,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,18,11.2
+8.219.134.117,2096,2096,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,46,11.2
+47.91.22.115,80,0,FALSE,JP@wxgqlfx,Asia Pacific,Tokyo,74,11.2
+8.219.0.162,2053,2053,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,63,11.19
+8.219.174.142,8080,8080,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,9,11.19
+47.74.5.150,2053,2053,TRUE,HK@wxgqlfx,Asia Pacific,Hong Kong,146,11.19
+8.219.153.44,2053,2053,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,140,11.19
+8.209.246.24,2087,2087,TRUE,HK@wxgqlfx,Asia Pacific,Hong Kong,186,11.19
+8.219.194.170,2096,2096,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,81,11.18
+47.245.82.78,2083,2083,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,67,11.18
+8.219.65.191,2096,2096,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,41,11.18
+8.219.157.97,80,80,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,38,11.18
+8.219.147.58,2083,2083,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,87,11.18
+47.245.6.9,80,80,FALSE,HK@wxgqlfx,Asia Pacific,Hong Kong,164,11.18
+8.219.98.13,443,443,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,132,11.18
+47.245.10.156,2086,2086,FALSE,JP@wxgqlfx,Asia Pacific,Tokyo,71,11.18
+8.219.250.239,2095,2095,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,8,11.18
+8.219.204.120,2095,2095,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,5,11.18
+47.245.118.197,2096,2096,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,10,11.17
+47.245.37.12,2053,2053,TRUE,HK@wxgqlfx,Asia Pacific,Hong Kong,173,11.17
+47.245.53.50,8443,8443,TRUE,HK@wxgqlfx,Asia Pacific,Hong Kong,297,11.17
+8.219.209.14,2095,2095,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,36,11.16
+47.245.54.58,2095,2095,FALSE,HK@wxgqlfx,Asia Pacific,Hong Kong,170,11.16
+8.219.201.245,2053,2053,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,107,11.16
+47.91.1.199,2082,2082,FALSE,HK@wxgqlfx,Asia Pacific,Hong Kong,164,11.16
+47.236.88.181,80,80,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,23,11.16
+47.245.13.93,2095,2095,FALSE,HK@wxgqlfx,Asia Pacific,Hong Kong,166,11.16
+8.219.204.120,2096,2096,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,85,11.16
+47.236.170.54,8080,8080,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,4,11.16
+47.245.37.98,2086,2086,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,154,11.16
+47.245.4.22,2087,2087,TRUE,HK@wxgqlfx,Asia Pacific,Hong Kong,159,11.15
+8.219.90.87,8443,8443,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,175,11.15
+47.245.39.28,2096,2096,TRUE,JP@wxgqlfx,Asia Pacific,Tokyo,223,11.15
+8.219.84.214,8880,8880,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,13,11.15
+8.219.121.24,8443,8443,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,75,11.14
+8.219.113.232,2095,2095,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,4,11.14
+8.219.248.170,8080,8080,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,55,11.14
+47.236.144.208,2086,2086,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,20,11.14
+47.245.37.29,2087,2087,TRUE,HK@wxgqlfx,Asia Pacific,Hong Kong,218,11.14
+47.74.11.9,2086,0,FALSE,HK@wxgqlfx,Asia Pacific,Hong Kong,171,11.14
+47.74.16.67,2087,2087,TRUE,HK@wxgqlfx,Asia Pacific,Hong Kong,160,11.14
+8.219.104.242,2052,2052,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,13,11.14
+47.245.37.29,2083,2083,TRUE,HK@wxgqlfx,Asia Pacific,Hong Kong,177,11.14
+8.209.252.13,8080,8080,FALSE,HK@wxgqlfx,Asia Pacific,Hong Kong,167,11.13
+47.245.2.231,80,80,FALSE,JP@wxgqlfx,Asia Pacific,Tokyo,75,11.13
+47.245.54.197,2082,2082,FALSE,HK@wxgqlfx,Asia Pacific,Hong Kong,171,11.13
+47.245.39.49,2053,2053,TRUE,HK@wxgqlfx,Asia Pacific,Hong Kong,267,11.13
+8.219.86.200,2095,2095,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,10,11.13
+8.219.198.34,2082,2082,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,7,11.12
+47.245.32.215,2053,2053,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,157,11.12
+8.219.201.174,80,80,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,7,11.12
+8.219.142.229,2095,2095,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,5,11.12
+47.236.121.23,2095,2095,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,39,11.12
+8.219.247.203,2052,2052,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,13,11.12
+47.236.114.167,2087,2087,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,124,11.12
+8.219.245.187,443,443,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,64,11.11
+8.219.186.189,2083,2083,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,67,11.11
+8.210.65.1,2082,2082,FALSE,US@wxgqlfx,North America,San Jose,201,11.11
+8.219.170.223,2095,2095,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,23,11.11
+8.219.4.122,2053,2053,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,63,11.11
+8.219.82.177,8443,8443,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,118,11.11
+8.219.60.54,2083,2083,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,137,11.1
+8.219.167.113,8443,8443,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,146,11.1
+8.219.206.53,2096,2096,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,123,11.1
+47.236.116.182,2086,2086,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,15,11.1
+8.222.136.247,2082,2082,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,36,11.1
+47.91.16.198,2083,2083,TRUE,HK@wxgqlfx,Asia Pacific,Hong Kong,211,11.1
+47.245.9.17,2082,2082,FALSE,HK@wxgqlfx,Asia Pacific,Hong Kong,169,11.09
+8.219.6.157,2095,2095,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,28,11.09
+8.219.228.193,2053,2053,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,92,11.09
+8.219.103.65,2083,2083,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,79,11.09
+8.219.159.232,2095,2095,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,8,11.09
+8.209.248.161,2083,2083,TRUE,HK@wxgqlfx,Asia Pacific,Hong Kong,173,11.09
+47.245.54.98,2086,2086,FALSE,JP@wxgqlfx,Asia Pacific,Tokyo,77,11.09
+8.219.178.101,8880,8880,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,19,11.09
+47.245.8.185,80,80,FALSE,HK@wxgqlfx,Asia Pacific,Hong Kong,166,11.09
+47.236.145.85,2053,2053,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,122,11.08
+47.236.150.13,2095,2095,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,20,11.08
+47.245.29.64,2053,2053,TRUE,JP@wxgqlfx,Asia Pacific,Tokyo,91,11.07
+8.219.215.12,2083,2083,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,61,11.07
+47.236.172.41,2095,2095,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,37,11.07
+47.236.163.221,2082,2082,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,18,11.07
+47.245.41.84,2086,2086,FALSE,HK@wxgqlfx,Asia Pacific,Hong Kong,166,11.07
+47.236.166.184,8080,8080,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,103,11.07
+8.219.60.54,2053,2053,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,108,11.06
+47.245.10.164,8880,8880,FALSE,HK@wxgqlfx,Asia Pacific,Hong Kong,165,11.06
+47.245.11.62,2053,2053,TRUE,JP@wxgqlfx,Asia Pacific,Tokyo,148,11.06
+8.219.99.169,2087,2087,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,170,11.06
+47.236.172.41,8080,8080,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,20,11.06
+47.245.37.12,2082,2082,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,154,11.06
+47.236.125.62,8880,8880,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,88,11.06
+8.219.137.50,2082,2082,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,3,11.06
+8.209.248.161,2096,2096,TRUE,HK@wxgqlfx,Asia Pacific,Hong Kong,191,11.06
+47.236.114.23,2083,2083,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,82,11.06
+47.245.37.29,2096,2096,TRUE,HK@wxgqlfx,Asia Pacific,Hong Kong,237,11.06
+47.245.13.93,2053,2053,TRUE,HK@wxgqlfx,Asia Pacific,Hong Kong,220,11.06
+8.209.246.24,8880,8880,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,152,11.05
+47.236.125.62,2082,2082,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,103,11.05
+8.219.178.9,2052,2052,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,5,11.05
+8.219.248.47,2083,2083,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,101,11.05
+8.218.136.25,80,80,FALSE,HK@wxgqlfx,Asia Pacific,Hong Kong,54,11.05
+8.219.103.126,2086,2086,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,12,11.05
+47.245.56.121,2083,2083,TRUE,HK@wxgqlfx,Asia Pacific,Hong Kong,229,11.04
+47.245.107.174,2053,2053,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,33,11.04
+8.219.72.50,2096,2096,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,104,11.04
+47.74.54.33,2083,2083,TRUE,HK@wxgqlfx,Asia Pacific,Hong Kong,190,11.04
+47.236.145.85,443,443,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,70,11.04
+8.219.193.22,2082,2082,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,15,11.03
+47.245.3.137,2052,2052,FALSE,JP@wxgqlfx,Asia Pacific,Tokyo,76,11.03
+8.219.103.126,2096,2096,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,52,11.03
+8.219.67.133,2087,2087,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,131,11.03
+8.222.167.8,2052,2052,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,63,11.02
+8.219.84.102,2096,2096,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,43,11.02
+47.245.57.109,8880,8880,FALSE,HK@wxgqlfx,Asia Pacific,Hong Kong,172,11.02
+8.219.174.142,2087,2087,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,121,11.02
+47.245.11.118,2095,2095,FALSE,HK@wxgqlfx,Asia Pacific,Hong Kong,167,11.02
+8.222.182.10,2095,2095,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,15,11.02
+8.219.152.195,8080,8080,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,37,11.02
+8.219.0.162,8443,8443,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,96,11.02
+8.219.124.227,8880,8880,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,9,11.01
+8.222.164.209,8880,8880,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,9,11.01
+8.219.5.10,2095,2095,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,2,11.01
+47.236.172.71,8443,8443,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,75,11.01
+8.219.193.202,2095,2095,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,25,11.01
+47.245.41.69,2053,2053,TRUE,HK@wxgqlfx,Asia Pacific,Hong Kong,201,11.01
+8.219.157.97,2086,2086,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,12,11.01
+8.218.204.128,2052,2052,FALSE,US@wxgqlfx,North America,San Jose,205,11
+47.236.11.84,2083,2083,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,49,11
+8.219.4.122,8080,8080,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,9,11
+8.222.168.24,2095,2095,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,27,11
+8.219.6.157,2086,2086,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,6,11
+8.219.115.215,2053,2053,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,66,11
+8.219.82.177,80,80,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,14,11
+8.219.6.187,8443,8443,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,103,11
+8.219.142.229,2086,2086,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,46,10.99
+8.222.152.165,2083,2083,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,46,10.99
+8.219.200.145,8880,8880,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,14,10.99
+47.236.121.7,2082,2082,FALSE,SG@wxgqlfx,Asia Pacific,Singapore,11,10.99
+8.219.197.111,8443,8443,TRUE,SG@wxgqlfx,Asia Pacific,Singapore,120,10.99
+47.245.62.84,2082,2082,FALSE,HK@wxgqlfx,Asia Pacific,Hong Kong,166,10.98
 47.236.166.184,8443,8443,TRUE,SIN,Asia Pacific,Singapore,67,10.98
 47.236.169.164,2052,2052,FALSE,SIN,Asia Pacific,Singapore,6,6.64
 47.245.59.133,2087,2087,TRUE,HKG,Asia Pacific,Hong Kong,281,6.64
