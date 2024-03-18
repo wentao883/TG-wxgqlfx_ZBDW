@@ -61,7 +61,7 @@ IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(
 47.128.164.52,9999,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,16509,AMAZON-02,390,23.10
 18.136.104.40,19042,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,16509,AMAZON-02,296,22.33
 45.66.128.116,48367,TRUE,US@wxgqlfx,US,North America,Los Angeles,3258,xTom Pty Ltd,611,21.02
-45.205.0.93,8443,TRUE,LAX,US,North America,Los Angeles,209242,"Cloudflare London, LLC",668,19.93
+45.205.0.93,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,209242,"Cloudflare London, LLC",668,19.93
 139.162.48.174,10000,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,63949,Akamai Connected Cloud,473,19.78
 77.37.33.195,8443,TRUE,US@wxgqlfx,US,North America,Seattle,31400,firstcolo GmbH,872,19.70
 147.78.247.110,50011,TRUE,HK@wxgqlfx,HK,Asia Pacific,Hong Kong,3258,xTom Pty Ltd,545,19.59
@@ -180,7 +180,7 @@ IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(
 77.37.33.198,8443,TRUE,US@wxgqlfx,US,North America,Seattle,31400,firstcolo GmbH,733,10.04
 77.37.33.136,8443,TRUE,US@wxgqlfx,US,North America,Seattle,31400,firstcolo GmbH,994,10.03
 45.205.0.22,8443,TRUE,US@wxgqlfx,US,North America,Seattle,209242,"Cloudflare London, LLC",731,10.02
-77.37.33.170,8443,TRUE,LAX,US,North America,Los Angeles,31400,firstcolo GmbH,929,10.00
-8.222.168.234,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",430,9.99
-77.37.33.248,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,682,9.97
-77.37.33.245,8443,TRUE,SEA,US,North America,Seattle,31400,firstcolo GmbH,756,9.96
+77.37.33.170,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,31400,firstcolo GmbH,929,10.00
+8.222.168.234,8443,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",430,9.99
+77.37.33.248,8443,TRUE,US@wxgqlfx,US,North America,Seattle,31400,firstcolo GmbH,682,9.97
+77.37.33.245,8443,TRUE,US@wxgqlfx,US,North America,Seattle,31400,firstcolo GmbH,756,9.96
