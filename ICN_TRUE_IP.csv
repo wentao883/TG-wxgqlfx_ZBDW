@@ -1,1 +1,23 @@
-
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+8.217.149.28,2087,true,HK@wxgqlfx,Asia Pacific,Hong Kong,61 ms,25.15
+8.217.149.28,2053,true,HK@wxgqlfx,Asia Pacific,Hong Kong,62 ms,23.86
+8.217.149.28,8443,true,HK@wxgqlfx,Asia Pacific,Hong Kong,61 ms,23.74
+47.76.33.40,2053,true,HK@wxgqlfx,Asia Pacific,Hong Kong,63 ms,23.35
+8.217.149.28,2096,true,HK@wxgqlfx,Asia Pacific,Hong Kong,61 ms,21.93
+8.218.8.142,2083,true,HK@wxgqlfx,Asia Pacific,Hong Kong,55 ms,21.93
+8.218.188.129,2083,true,HK@wxgqlfx,Asia Pacific,Hong Kong,63 ms,21.45
+195.245.242.232,53942,true,HK@wxgqlfx,Asia Pacific,Hong Kong,83 ms,20.52
+8.218.188.129,8443,true,HK@wxgqlfx,Asia Pacific,Hong Kong,69 ms,19.85
+8.218.188.129,2096,true,HK@wxgqlfx,Asia Pacific,Hong Kong,66 ms,19.54
+8.218.188.129,2087,true,HK@wxgqlfx,Asia Pacific,Hong Kong,70 ms,18.69
+118.163.128.81,17333,true,HK@wxgqlfx,Asia Pacific,Kaohsiung City,84 ms,18.46
+114.214.202.60,8443,true,HK@wxgqlfx,Asia Pacific,Hong Kong,127 ms,15.1
+8.218.188.129,443,true,HK@wxgqlfx,Asia Pacific,Hong Kong,60 ms,12.88
+154.197.121.127,443,true,US@wxgqlfx,North America,San Jose,186 ms,12.79
+217.163.76.59,443,true,US@wxgqlfx,North America,San Jose,170 ms,12.46
+45.66.128.216,2001,true,US@wxgqlfx,Asia Pacific,Osaka,85 ms,11.34
+66.42.103.115,6969,true,US@wxgqlfx,North America,Los Angeles,188 ms,11.01
+217.163.76.75,443,true,US@wxgqlfx,North America,San Jose,170 ms,10.77
+168.100.6.26,443,true,US@wxgqlfx,North America,San Jose,174 ms,10.36
+47.236.170.54,2053,true,SG@wxgqlfx,Asia Pacific,Singapore,225 ms,9.28
+8.222.248.188,2053,true,SG@wxgqlfx,Asia Pacific,Singapore,229 ms,9.26
