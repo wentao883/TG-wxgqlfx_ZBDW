@@ -27,7 +27,7 @@ IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 8.218.204.128,2083,true,HK@wxgqlfx,Asia Pacific,Hong Kong,70 ms,22.17
 8.218.204.128,8443,true,HK@wxgqlfx,Asia Pacific,Hong Kong,66 ms,21.13
 8.218.204.128,2053,true,HK@wxgqlfx,Asia Pacific,Hong Kong,69 ms,19.92
-8.218.204.128,2087,true,HKG,Asia Pacific,Hong Kong,64 ms,17.28
+8.218.204.128,2087,true,HK@wxgqlfx,Asia Pacific,Hong Kong,64 ms,17.28
 211.22.240.107,30686,true,HK@wxgqlfx,Asia Pacific,Kaohsiung City,87 ms,17.08
 8.218.204.128,2096,true,HK@wxgqlfx,Asia Pacific,Hong Kong,61 ms,15.52
 45.66.128.216,2001,true,HK@wxgqlfx,Asia Pacific,Hong Kong,77 ms,15.4
