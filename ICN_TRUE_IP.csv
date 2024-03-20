@@ -49,3 +49,33 @@ IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 140.99.233.156,2087,true,US@wxgqlfx,North America,San Jose,176 ms,11
 89.116.250.6,2083,true,US@wxgqlfx,North America,San Jose,176 ms,10.87
 204.93.210.160,2083,true,US@wxgqlfx,North America,San Jose,180 ms,10.87
+47.74.43.95,2087,true,HK@wxgqlfx,Asia Pacific,Hong Kong,HK,150 ms,11.87
+192.9.246.112,8443,true,US@wxgqlfx,North America,San Jose,US,148 ms,11.34
+47.74.12.139,2096,true,HK@wxgqlfx,Asia Pacific,Hong Kong,HK,160 ms,11.3
+47.74.27.211,2096,true,HK@wxgqlfx,Asia Pacific,Hong Kong,HK,157 ms,11.18
+8.222.188.56,2096,true,SG@wxgqlfx,Asia Pacific,Singapore,SG,189 ms,11.14
+47.74.27.211,2083,true,HK@wxgqlfx,Asia Pacific,Hong Kong,HK,158 ms,11.05
+8.222.169.182,2087,true,SG@wxgqlfx,Asia Pacific,Singapore,SG,207 ms,10.98
+8.219.13.143,2087,true,SG@wxgqlfx,Asia Pacific,Singapore,SG,199 ms,10.95
+8.222.249.190,8443,true,SG@wxgqlfx,Asia Pacific,Singapore,SG,193 ms,10.94
+8.222.249.190,2083,true,SG@wxgqlfx,Asia Pacific,Singapore,SG,187 ms,10.91
+47.74.13.94,2083,true,US@wxgqlfx,Asia Pacific,Tokyo,JP,68 ms,10.89
+47.245.113.117,2053,true,SG@wxgqlfx,Asia Pacific,Singapore,SG,189 ms,10.82
+8.219.213.133,2096,true,SG@wxgqlfx,Asia Pacific,Singapore,SG,190 ms,10.74
+192.9.135.122,8443,true,US@wxgqlfx,North America,San Jose,US,141 ms,10.62
+8.219.58.64,8443,true,SG@wxgqlfx,Asia Pacific,Singapore,SG,187 ms,10.53
+138.2.80.183,2053,true,SG@wxgqlfx,Asia Pacific,Singapore,SG,212 ms,10.39
+158.178.246.169,8443,true,SG@wxgqlfx,Asia Pacific,Singapore,SG,206 ms,10.31
+8.222.160.176,2053,true,SG@wxgqlfx,Asia Pacific,Singapore,SG,224 ms,12.25
+8.222.130.137,2083,true,SG@wxgqlfx,Asia Pacific,Singapore,SG,216 ms,10.19
+8.222.221.109,2083,true,SG@wxgqlfx,Asia Pacific,Singapore,SG,200 ms,10.18
+8.219.222.98,2053,true,SG@wxgqlfx,Asia Pacific,Singapore,SG,206 ms,10.17
+8.222.162.45,2053,true,SG@wxgqlfx,Asia Pacific,Singapore,SG,204 ms,10.16
+8.222.168.155,2053,true,SG@wxgqlfx,Asia Pacific,Singapore,SG,193 ms,10.07
+129.146.46.164,443,true,US@wxgqlfx,North America,Los Angeles,US,200 ms,10.06
+8.222.154.50,2053,true,SG@wxgqlfx,Asia Pacific,Singapore,SG,199 ms,10.04
+138.2.80.183,2083,true,SG@wxgqlfx,Asia Pacific,Singapore,SG,214 ms,10.03
+8.222.147.203,2083,true,SG@wxgqlfx,Asia Pacific,Singapore,SG,194 ms,9.96
+129.150.63.96,2096,true,SG@wxgqlfx,Asia Pacific,Singapore,SG,209 ms,9.88
+8.222.137.178,2096,true,SG@wxgqlfx,Asia Pacific,Singapore,SG,203 ms,9.87
+8.222.146.222,2053,true,SG@wxgqlfx,Asia Pacific,Singapore,SG,211 ms,9.8
