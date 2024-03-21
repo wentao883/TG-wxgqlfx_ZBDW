@@ -20,3 +20,13 @@ IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(
 152.70.239.189,42984,TRUE,HK@wxgqlfx,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,699,18.04
 152.70.232.251,58474,TRUE,HK@wxgqlfx,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,585,17.35
 45.143.234.76,44445,TRUE,JP@wxgqlfx,JP,Asia Pacific,Tokyo,3258,xTom Pty Ltd,355,13.85
+218.204.179.8,50394,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,9808,"China Mobile Communications Group Co., Ltd.",347,27.50
+158.247.250.103,55555,TRUE,KR@wxgqlfx,KR,Asia Pacific,Seoul,20473,AS-CHOOPA,644,24.40
+103.166.228.4,44443,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,142594,SpeedyPage Ltd,488,20.87
+218.204.179.53,50394,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,9808,"China Mobile Communications Group Co., Ltd.",303,18.46
+13.76.156.204,34237,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,8075,MICROSOFT-CORP-MSN-AS-BLOCK,360,16.98
+38.181.73.64,50395,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,138997,Eons Data Communications Limited,314,15.32
+38.181.73.64,62888,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,138997,Eons Data Communications Limited,304,15.02
+38.181.73.151,47762,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,138997,Eons Data Communications Limited,349,9.38
+156.251.183.226,34147,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,40065,CNSERVERS,309,8.32
+106.245.188.125,34981,TRUE,KR@wxgqlfx,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,335,8.12
