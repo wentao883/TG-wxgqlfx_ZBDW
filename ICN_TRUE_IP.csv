@@ -59,7 +59,7 @@ IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 8.219.13.143,2087,true,SG@wxgqlfx,Asia Pacific,Singapore,199 ms,10.95
 8.222.249.190,8443,true,SG@wxgqlfx,Asia Pacific,Singapore,193 ms,10.94
 8.222.249.190,2083,true,SG@wxgqlfx,Asia Pacific,Singapore,187 ms,10.91
-47.74.13.94,2083,true,US@wxgqlfx,Asia Pacific,Tokyo,68ms, 10.89
+47.74.13.94,2083,true,US@wxgqlfx,Asia Pacific,Tokyo,68 ms, 10.89
 47.245.113.117,2053,true,SG@wxgqlfx,Asia Pacific,Singapore,189 ms,10.82
 8.219.213.133,2096,true,SG@wxgqlfx,Asia Pacific,Singapore,190 ms,10.74
 192.9.135.122,8443,true,US@wxgqlfx,North America,San Jose,141 ms,10.62
