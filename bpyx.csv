@@ -67,3 +67,63 @@ IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度
 152.67.140.7,443,443,true,FRA,Europe,Frankfurt,198,11.12
 158.101.133.129,8443,8443,true,NRT,Asia Pacific,Tokyo,84,11.11
 168.138.202.169,80,80,false,NRT,Asia Pacific,Tokyo,81,11.10
+150.230.47.17,443,443,true,SJC,North America,San Jose,174,11.08
+150.230.219.83,8880,8880,false,HKG,Asia Pacific,Hong Kong,140,11.08
+168.138.206.68,2087,2087,true,HKG,Asia Pacific,Hong Kong,182,11.07
+138.3.208.9,8080,8080,false,HKG,Asia Pacific,Hong Kong,437,11.06
+150.230.201.63,80,80,false,NRT,Asia Pacific,Tokyo,81,11.06
+168.138.198.53,2096,2096,true,NRT,Asia Pacific,Tokyo,91,11.06
+152.70.106.13,8080,8080,false,NRT,Asia Pacific,Tokyo,85,11.06
+150.230.213.95,2086,2086,false,HKG,Asia Pacific,Hong Kong,146,11.05
+152.70.107.26,2053,2053,true,LAX,North America,Los Angeles,242,11.05
+130.162.242.214,443,443,true,FRA,Europe,Frankfurt,185,11.05
+150.230.105.228,8880,8880,false,HKG,Asia Pacific,Hong Kong,137,11.04
+138.3.222.204,8080,8080,false,HKG,Asia Pacific,Hong Kong,143,11.04
+158.179.182.19,2052,2052,false,HKG,Asia Pacific,Hong Kong,142,11.03
+168.138.206.68,2083,2083,true,HKG,Asia Pacific,Hong Kong,144,11.03
+129.159.200.68,443,443,true,FRA,Europe,Frankfurt,199,11.03
+151.145.68.166,2083,2083,true,HKG,Asia Pacific,Hong Kong,212,11.02
+168.138.205.195,2096,2096,true,NRT,Asia Pacific,Tokyo,151,11.02
+132.145.123.238,80,80,false,NRT,Asia Pacific,Tokyo,75,11.01
+141.147.189.23,2053,2053,true,HKG,Asia Pacific,Hong Kong,152,11.00
+152.70.106.13,2083,2083,true,NRT,Asia Pacific,Tokyo,80,11.00
+150.230.214.218,2052,2052,false,SIN,Asia Pacific,Singapore,163,11.00
+151.145.66.219,2086,2086,false,NRT,Asia Pacific,Tokyo,88,11.00
+168.138.198.53,8443,8443,true,NRT,Asia Pacific,Tokyo,82,10.96
+155.248.176.98,8880,8880,false,SIN,Asia Pacific,Singapore,146,10.95
+168.138.214.62,2082,2082,false,NRT,Asia Pacific,Tokyo,79,10.95
+138.2.31.68,2086,2086,false,HKG,Asia Pacific,Hong Kong,132,10.95
+132.145.126.21,2086,2086,false,NRT,Asia Pacific,Tokyo,75,10.94
+168.138.208.17,2083,2083,true,NRT,Asia Pacific,Tokyo,105,10.94
+141.147.58.77,443,443,true,FRA,Europe,Frankfurt,188,10.94
+150.230.219.168,8080,8080,false,HKG,Asia Pacific,Hong Kong,144,10.94
+132.145.123.238,2087,2087,true,HKG,Asia Pacific,Hong Kong,154,10.92
+158.101.206.70,2053,443,true,AMS,Europe,Amsterdam,208,10.91
+150.230.200.210,80,80,false,HKG,Asia Pacific,Hong Kong,141,10.91
+141.147.60.74,443,443,true,FRA,Europe,Frankfurt,179,10.89
+158.101.68.100,2086,2086,false,HKG,Asia Pacific,Hong Kong,148,10.89
+150.230.106.21,8080,8080,false,HKG,Asia Pacific,Hong Kong,168,10.89
+150.230.192.173,80,80,false,HKG,Asia Pacific,Hong Kong,143,10.88
+132.145.122.95,8443,8443,true,NRT,Asia Pacific,Tokyo,75,10.86
+158.101.155.115,2086,2086,false,HKG,Asia Pacific,Hong Kong,153,10.86
+129.146.247.85,2053,443,true,LAX,North America,Los Angeles,184,10.86
+141.144.224.189,443,443,true,FRA,Europe,Frankfurt,187,10.86
+141.147.79.125,443,443,true,FRA,Europe,Frankfurt,160,10.85
+150.230.201.39,2095,2095,false,NRT,Asia Pacific,Tokyo,124,10.85
+151.145.66.219,8080,8080,false,NRT,Asia Pacific,Tokyo,75,10.83
+155.248.174.71,2086,2086,false,NRT,Asia Pacific,Tokyo,83,10.83
+151.145.74.56,2053,2053,true,HKG,Asia Pacific,Hong Kong,151,10.82
+158.101.68.48,2053,2053,true,NRT,Asia Pacific,Tokyo,86,10.82
+168.138.214.62,8443,8443,true,NRT,Asia Pacific,Tokyo,112,10.81
+158.179.181.107,2095,2095,false,HKG,Asia Pacific,Hong Kong,142,10.80
+132.226.200.28,443,443,true,FRA,Europe,Frankfurt,178,10.80
+144.24.169.81,2053,443,true,FRA,Europe,Frankfurt,178,10.79
+150.230.199.118,2086,2086,false,HKG,Asia Pacific,Hong Kong,188,10.78
+89.168.70.88,443,443,true,CDG,Europe,Paris,173,10.78
+158.101.158.238,80,80,false,HKG,Asia Pacific,Hong Kong,147,10.78
+158.101.208.64,443,443,true,FRA,Europe,Frankfurt,186,10.77
+141.144.231.12,443,443,true,FRA,Europe,Frankfurt,189,10.77
+158.101.155.115,8080,8080,false,HKG,Asia Pacific,Hong Kong,138,10.76
+158.101.155.158,2095,2095,false,SIN,Asia Pacific,Singapore,148,10.76
+150.230.212.213,2082,2082,false,HKG,Asia Pacific,Hong Kong,147,10.76
+150.230.200.210,2095,2095,false,HKG,Asia Pacific,Hong Kong,158,10.75
