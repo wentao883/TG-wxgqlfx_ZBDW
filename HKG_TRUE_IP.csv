@@ -1,12 +1,6 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
 103.247.28.234,49034,TRUE,HK@wxgqlfx,HK,Asia Pacific,Hong Kong,967,VMISS,187,29.83
-38.207.161.88,41019,TRUE,HK@wxgqlfx,HK,Asia Pacific,Hong Kong,967,VMISS,241,28.94
-206.237.2.75,51735,TRUE,HK@wxgqlfx,HK,Asia Pacific,Hong Kong,932,XNNET,227,25.57
-206.237.0.30,50883,TRUE,HK@wxgqlfx,HK,Asia Pacific,Hong Kong,932,XNNET,204,21.83
 146.56.177.67,61153,TRUE,HK@wxgqlfx,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,420,15.39
-103.234.53.108,58035,TRUE,HK@wxgqlfx,HK,Asia Pacific,Hong Kong,40065,CNSERVERS,241,13.65
-38.207.143.37,46558,TRUE,HK@wxgqlfx,HK,Asia Pacific,Hong Kong,198100,WAP.AC LTD,505,13.58
-140.238.2.153,59408,TRUE,KR@wxgqlfx,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,216,30.23
 152.70.234.249,55348,TRUE,KR@wxgqlfx,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,244,26.58
 193.123.250.205,56785,TRUE,KR@wxgqlfx,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,237,25.02
 129.154.192.228,55040,TRUE,KR@wxgqlfx,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,214,19.49
@@ -16,15 +10,12 @@ IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(
 152.70.246.67,45696,TRUE,HK@wxgqlfx,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,440,23.69
 152.70.253.130,61153,TRUE,HK@wxgqlfx,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,425,23.19
 146.56.146.8,43265,TRUE,HK@wxgqlfx,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,483,20.57
-54.65.210.183,54177,TRUE,JP@wxgqlfx,JP,Asia Pacific,Tokyo,16509,AMAZON-02,202,18.25
 152.70.239.189,42984,TRUE,HK@wxgqlfx,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,699,18.04
 152.70.232.251,58474,TRUE,HK@wxgqlfx,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,585,17.35
 45.143.234.76,44445,TRUE,JP@wxgqlfx,JP,Asia Pacific,Tokyo,3258,xTom Pty Ltd,355,13.85
 218.204.179.8,50394,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,9808,"China Mobile Communications Group Co., Ltd.",347,27.50
 158.247.250.103,55555,TRUE,KR@wxgqlfx,KR,Asia Pacific,Seoul,20473,AS-CHOOPA,644,24.40
-103.166.228.4,44443,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,142594,SpeedyPage Ltd,488,20.87
 218.204.179.53,50394,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,9808,"China Mobile Communications Group Co., Ltd.",303,18.46
-13.76.156.204,34237,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,8075,MICROSOFT-CORP-MSN-AS-BLOCK,360,16.98
 38.181.73.64,50395,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,138997,Eons Data Communications Limited,314,15.32
 38.181.73.64,62888,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,138997,Eons Data Communications Limited,304,15.02
 38.181.73.151,47762,TRUE,SG@wxgqlfx,SG,Asia Pacific,Singapore,138997,Eons Data Communications Limited,349,9.38
