@@ -1,4 +1,4 @@
-IP��ַ,�˿�,TLS,��������,����,����,����,ASN,ORG,�ӳ�(ms),�ٶ�(MB/s)
+IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
 8.218.143.10,2082,FALSE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",120,28.44
 47.74.26.196,8080,FALSE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",300,23.4
 47.245.40.55,2095,FALSE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",296,22.58
