@@ -1,4 +1,4 @@
-IP地址	端口	回源端口	TLS	数据中心	地区	城市	TCP延迟(ms)	速度(MB/s)	
+IP地址,端口,回源端口,TLS,数据中心,地区,城市,延迟(ms)，速度(MB/s)	
 132.145.112.247	2053	2053	TRUE	NRT	Asia Pacific	Tokyo	124	11.35	
 141.147.179.64	2053	0	TRUE	NRT	Asia Pacific	Tokyo	79	11.3	
 158.101.139.42	2083	2083	TRUE	NRT	Asia Pacific	Tokyo	81	11.29	
