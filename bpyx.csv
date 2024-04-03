@@ -1,10 +1,1 @@
-IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)	
-132.145.112.247,2053,2053,TRUE,JP@wxgqlfx,Asia Pacific,Tokyo,124,11.35	
-158.101.139.42,2083,2083,TRUE,JP@wxgqlfx,Asia Pacific,Tokyo,81,11.29	
-150.230.199.118,2087,2087,TRUE,JP@wxgqlfx,Asia Pacific,Tokyo,110,11.28	
-150.230.219.83,2083,2083,TRUE,JP@wxgqlfx,Asia Pacific,Tokyo,125,11.28	
-168.138.200.159,8443,8443,TRUE,JP@wxgqlfx,Asia Pacific,Tokyo,68,11.26	
-131.186.38.135,8443,8443,TRUE,JP@wxgqlfx,Asia Pacific,Tokyo,96,11.26	
-151.145.74.56,8443,8443,TRUE,JP@wxgqlfx,Asia Pacific,Tokyo,117,11.26	
-132.145.114.250,2087,2087,TRUE,JP@wxgqlfx,Asia Pacific,Tokyo,108,11.25	
-158.101.158.251,8443,8443,TRUE,JP@wxgqlfx,Asia Pacific,Tokyo,82,11.22	
+
