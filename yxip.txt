@@ -16,10 +16,7 @@
 54.201.19.60:443#US@wxgqlfx 
 99.83.209.185:443#US@wxgqlfx 
 20.185.28.234:44056#US@wxgqlfx
-20.168.54.251:443#US@wxgqlfx
 4.255.56.138:443#US@wxgqlfx
-54.201.19.60:443#US@wxgqlfx
-13.57.182.91:443#US@wxgqlfx
 192.18.134.22:443#US@wxgqlfx
 150.230.47.17:443#US@wxgqlfx
 152.70.155.147:2083#US@wxgqlfx
