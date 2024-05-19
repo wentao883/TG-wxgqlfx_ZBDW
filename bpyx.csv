@@ -1,6 +1,4 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-52.24.42.114,2087,TRUE,US@wxgqlfx,US,North America,Seattle,16509,AMAZON-02,197,33.69
-3.145.48.194,21234,TRUE,US@wxgqlfx,US,North America,Chicago,16509,AMAZON-02,268,21.30
 91.217.139.121,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,40065,CNSERVERS,305,60.20
 91.217.139.227,8443,TRUE,US@wxgqlfx,US,North America,Los Angeles,40065,CNSERVERS,312,52.14
 216.38.168.34,16384,TRUE,US@wxgqlfx,US,North America,Los Angeles,40065,CNSERVERS,310,17.15
