@@ -1,0 +1,89 @@
+{
+  "$schema": "https://sing-box.schemastore.org/sing-box-1.9.0.json",
+  "route": {
+    "rules": [
+      {
+        "type": "field",
+        "rule_set": "geosite-cn",
+        "outbound": "direct"
+      },
+      {
+        "type": "field",
+        "ip_cidr": [
+          "192.168.0.0/16",
+          "10.0.0.0/8",
+          "172.16.0.0/12",
+          "127.0.0.1/32"
+        ],
+        "outbound": "direct"
+      },
+      {
+        "type": "field",
+        "domain_suffix": [
+          "local"
+        ],
+        "outbound": "direct"
+      },
+      {
+        "type": "field",
+        "rule_set": "geosite-category-ads-all",
+        "outbound": "block"
+      },
+      {
+        "type": "field",
+        "rule_set": "geosite-gfw",
+        "outbound": "proxy"
+      }
+    ],
+    "rule_set": [
+      {
+        "tag": "geosite-cn",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/SagerNet/sing-geosite/geosite/geosite-cn.srs"
+      },
+      {
+        "tag": "geosite-gfw",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/SagerNet/sing-geosite/geosite/geosite-gfw.srs"
+      },
+      {
+        "tag": "geosite-category-ads-all",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/SagerNet/sing-geosite/geosite/geosite-category-ads-all.srs"
+      }
+    ]
+  },
+  "outbounds": [
+    {
+      "type": "direct",
+      "tag": "direct"
+    },
+    {
+      "type": "block",
+      "tag": "block"
+    },
+    {
+      "type": "selector",
+      "tag": "proxy",
+      "outbounds": [
+        "auto",
+        "all"
+      ]
+    },
+    {
+      "type": "urltest",
+      "tag": "auto",
+      "outbounds": ["all"],
+      "url": "https://www.gstatic.com/generate_204",
+      "interval": "5m"
+    },
+    {
+      "type": "selector",
+      "tag": "all",
+      "outbounds": []
+    }
+  ]
+}
