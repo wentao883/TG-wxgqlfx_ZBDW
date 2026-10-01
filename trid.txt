@@ -1,5 +1,3 @@
-# CF 探测优选结果（格式：域名:端口#TG@wxgqlfx）
-# 更新时间：2026-09-30 17:14:27 UTC
 0xcc.io:2083#TG@wxgqlfx
 137828.fs1.hubspotusercontent-na1.net:2087#TG@wxgqlfx
 1password.com:2083#TG@wxgqlfx
